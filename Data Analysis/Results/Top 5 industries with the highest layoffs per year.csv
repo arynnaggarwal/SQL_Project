@@ -1,0 +1,21 @@
+industry,year,total_laid,Ranking
+Transportation,2020,14656,1
+Travel,2020,13983,2
+Finance,2020,8624,3
+Retail,2020,8002,4
+Food,2020,6218,5
+Consumer,2021,3600,1
+"Real Estate",2021,2900,2
+Food,2021,2644,3
+Construction,2021,2434,4
+Education,2021,1943,5
+Retail,2022,20914,1
+Consumer,2022,19856,2
+Transportation,2022,15227,3
+Healthcare,2022,15058,4
+Finance,2022,12684,5
+Other,2023,28512,1
+Consumer,2023,15663,2
+Retail,2023,13609,3
+Hardware,2023,13223,4
+Healthcare,2023,9770,5
